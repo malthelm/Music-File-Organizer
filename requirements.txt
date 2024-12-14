@@ -1,0 +1,9 @@
+customtkinter>=5.2.0
+librosa>=0.10.1
+numpy>=1.24.0
+Pillow>=10.0.0
+pygame>=2.5.0
+essentia>=2.1.0
+mutagen>=1.47.0
+dropbox>=11.36.0
+matplotlib>=3.7.0
